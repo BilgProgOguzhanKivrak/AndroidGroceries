@@ -8,13 +8,14 @@
     android:background="@color/background">
 
     <ImageView
+        android:id="@+id/intro_logo"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        app:layout_constraintTop_toTopOf="parent"
+        android:src="@drawable/ic_groceries_logo"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
-        android:src="@drawable/ic_groceries_logo">
+        app:layout_constraintTop_toTopOf="parent">
 
     </ImageView>
 
