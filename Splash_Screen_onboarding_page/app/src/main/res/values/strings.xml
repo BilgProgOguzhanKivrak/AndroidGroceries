@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Groceries</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Dummy Text Values  -->
+    <string name="dummyImageContentDesc">Dummmy Muz Açıklaması</string>
+    <string name="dummyProductName">Organik Muz</string>
+    <string name="dummyProductShortDesc">7 pcs , Price g</string>
+    <string name="dummyPrice">4.99 TL</string>
+    <string name="onBoarding">Welcome to our store</string>
+
+</resources>
