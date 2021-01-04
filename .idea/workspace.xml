@@ -12,11 +12,17 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -39,13 +45,18 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="android.sdk.path" value="$PROJECT_DIR$/../../android_sdk" />
+    <property name="android.sdk.path" value="$USER_HOME$/android_sdk" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\mobil_projelerim\Ortak_Proje\AndroidGroceries\app\src\main\res\drawable" />
+      <recent name="C:\mobil_projelerim\Ortak_Proje\AndroidGroceries\app\src\main\res\drawable\Account_icon" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\mobil_projelerim\Ortak_Proje\AndroidGroceries\app\src\main\res\drawable" />
       <recent name="C:\mobil_projelerim\Android_Studio_Proje\app\src\main\res\drawable" />
       <recent name="C:\mobil_projelerim\Android_Studio_Proje\app\src\main\res\drawable-v24" />
     </key>
@@ -59,13 +70,12 @@
       </method>
     </configuration>
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
-      <module name="Groceries.app" />
+      <module name="app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
       <option name="ARTIFACT_NAME" value="" />
       <option name="PM_INSTALL_OPTIONS" value="" />
-      <option name="ALL_USERS" value="false" />
       <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
       <option name="ACTIVITY_EXTRA_FLAGS" value="" />
       <option name="MODE" value="default_activity" />
@@ -101,16 +111,11 @@
       </Native>
       <Profilers>
         <option name="ADVANCED_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_PROFILING_ENABLED" value="false" />
         <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
         <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
-        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
-        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
       </Profilers>
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
-      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
-      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
@@ -130,6 +135,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="654" y="295" key="#Notifications" timestamp="1609767586233">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="654" y="295" key="#Notifications/0.0.1536.864/-1440.182.1440.900@0.0.1536.864" timestamp="1609767586233" />
     <state x="349" y="187" key="AndroidCreateResourceDirectoryDialog" timestamp="1609529029292">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -138,9 +147,13 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="349" y="187" key="AndroidCreateResourceFileDialog/0.0.1536.864/-1440.182.1440.900@0.0.1536.864" timestamp="1609529472546" />
-    <state x="584" y="210" key="chooseDestDirectoryDialog" timestamp="1609531011455">
+    <state x="614" y="222" key="AndroidCreateXmlResourceDialog" timestamp="1609780334044">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="584" y="210" key="chooseDestDirectoryDialog/0.0.1536.864/-1440.182.1440.900@0.0.1536.864" timestamp="1609531011455" />
+    <state x="614" y="222" key="AndroidCreateXmlResourceDialog/0.0.1536.864/-1440.182.1440.900@0.0.1536.864" timestamp="1609780334044" />
+    <state x="584" y="210" key="chooseDestDirectoryDialog" timestamp="1609770924073">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="584" y="210" key="chooseDestDirectoryDialog/0.0.1536.864/-1440.182.1440.900@0.0.1536.864" timestamp="1609770924073" />
   </component>
 </project>
