@@ -41,13 +41,21 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$PROJECT_DIR$/../../android_sdk" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\mobil_projelerim\Ortak_Proje\AndroidGroceries\app\src\main\res\drawable" />
       <recent name="C:\mobil_projelerim\Android_Studio_Proje\app\src\main\res\drawable" />
       <recent name="C:\mobil_projelerim\Android_Studio_Proje\app\src\main\res\drawable-v24" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\mobil_projelerim\Ortak_Proje\AndroidGroceries\app\src\main\res\drawable" />
+      <recent name="C:\mobil_projelerim\Ortak_Proje\AndroidGroceries\app\src\main\res\drawable\Account_icon" />
     </key>
   </component>
   <component name="RunManager">
@@ -130,6 +138,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="654" y="295" key="#Notifications" timestamp="1609767586233">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="654" y="295" key="#Notifications/0.0.1536.864/-1440.182.1440.900@0.0.1536.864" timestamp="1609767586233" />
+    <state x="-1347" y="288" key="#PSD" timestamp="1609855843898">
+      <screen x="-1440" y="182" width="1440" height="900" />
+    </state>
+    <state x="-1347" y="288" key="#PSD/0.0.1536.864/-1440.182.1440.900@-1440.182.1440.900" timestamp="1609855843898" />
     <state x="349" y="187" key="AndroidCreateResourceDirectoryDialog" timestamp="1609529029292">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -138,9 +154,13 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="349" y="187" key="AndroidCreateResourceFileDialog/0.0.1536.864/-1440.182.1440.900@0.0.1536.864" timestamp="1609529472546" />
-    <state x="584" y="210" key="chooseDestDirectoryDialog" timestamp="1609531011455">
+    <state x="614" y="222" key="AndroidCreateXmlResourceDialog" timestamp="1609780334044">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="584" y="210" key="chooseDestDirectoryDialog/0.0.1536.864/-1440.182.1440.900@0.0.1536.864" timestamp="1609531011455" />
+    <state x="614" y="222" key="AndroidCreateXmlResourceDialog/0.0.1536.864/-1440.182.1440.900@0.0.1536.864" timestamp="1609780334044" />
+    <state x="584" y="210" key="chooseDestDirectoryDialog" timestamp="1609770924073">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="584" y="210" key="chooseDestDirectoryDialog/0.0.1536.864/-1440.182.1440.900@0.0.1536.864" timestamp="1609770924073" />
   </component>
 </project>
