@@ -1,14 +1,112 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".ui.search.SearchFragment">
 
     <!-- TODO: Update blank fragment layout -->
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="@string/hello_blank_fragment" />
 
-</FrameLayout>
+
+    <Button
+        android:id="@+id/meat2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="220dp"
+        android:layout_marginTop="15dp"
+        android:width="175dp"
+        android:height="190dp"
+        android:background="@drawable/exploreroil"
+        android:drawableTop="@drawable/meat"
+        android:text="Meat &amp; Fish"
+        android:textAlignment="inherit"
+        android:textColor="#181725"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/fruit" />
+
+    <Button
+        android:id="@+id/oil2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="101dp"
+        android:width="175dp"
+        android:height="190dp"
+        android:background="@drawable/explroercolor"
+        android:drawableTop="@drawable/oil"
+        android:text="Cooking Oil\n
+&amp; Ghee"
+        android:textAlignment="inherit"
+        android:textColor="#181725"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView12" />
+
+    <Button
+        android:id="@+id/fruit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginEnd="24dp"
+        android:width="175dp"
+        android:height="190dp"
+        android:background="@drawable/explorerpaint"
+        android:drawableTop="@drawable/fruit"
+        android:text="Frash Fruits \n&amp;\n Vegetable"
+        android:textAlignment="inherit"
+        android:textColor="#181725"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/oil2"
+        app:layout_constraintTop_toBottomOf="@+id/textView12" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="144dp"
+        android:layout_marginTop="57dp"
+        android:layout_marginEnd="181dp"
+        android:fontFamily="@font/gilroy_bold"
+        android:text="Find Products"
+        android:textAlignment="center"
+        android:textColor="#181725"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/bakery"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="20dp"
+        android:width="175dp"
+        android:height="190dp"
+        android:background="@drawable/explorer_button"
+        android:drawableTop="@drawable/barkey"
+        android:text="Bakery &amp; Snacks"
+        android:textAlignment="inherit"
+        android:textColor="#181725"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/oil2" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="321dp"
+        android:layout_height="45dp"
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="25dp"
+        android:background="@drawable/explorer_button"
+        android:drawableStart="@drawable/searchicon"
+        android:text="Search"
+        android:textAlignment="viewStart"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.405"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView12" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
