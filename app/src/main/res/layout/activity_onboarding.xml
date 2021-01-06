@@ -33,7 +33,7 @@
         android:layout_marginEnd="81dp"
         android:layout_marginBottom="19dp"
         android:fontFamily="@font/gilroy_bold"
-        android:text="Welcome\n to our store"
+        android:text="Welcome to our store"
         android:textAlignment="center"
         android:textColor="#fff"
         android:textSize="48px"

@@ -5,7 +5,7 @@
             <!-- background -->
             <solid android:background="@android:color/transparent" />
             <!-- border -->
-            <stroke android:width="0.2dp" android:color="#eueue" />
+            <stroke android:width="0.2dp" android:color="@color/colorPrimary" />
 </shape>
     </item>
 </selector>
